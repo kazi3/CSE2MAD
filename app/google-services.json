@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332295856080",
+    "firebase_url": "https://covidnewscentralfinal.firebaseio.com",
+    "project_id": "covidnewscentralfinal",
+    "storage_bucket": "covidnewscentralfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332295856080:android:196ab8c9c67687130e23d5",
+        "android_client_info": {
+          "package_name": "com.example.covidnewscentralfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332295856080-ool2lkio48ftqgbk1d67k9u2tes9no1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Rt_Qs0CCiki5CzPz2oL4ZuZL1uh2DI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332295856080-ool2lkio48ftqgbk1d67k9u2tes9no1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
